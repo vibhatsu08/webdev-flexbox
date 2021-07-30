@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-box1{
+    display: flex;
+    justify-content: flex-start;
+}
+.flex-box2{
+    display: flex;
+    justify-content:flex-end;
+}
+.flex-box3{
+    display: flex;
+    justify-content: space-between;
+}
